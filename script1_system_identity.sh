@@ -1,11 +1,11 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Mangal | Course: Open Source Software
+# Author: Mehul | Course: Open Source Software
 # Description: Displays a welcome screen with full system identity info
 # Chosen Software: Linux Kernel
 
 # --- Variables ---
-STUDENT_NAME="Mangal"                  # Student name
+STUDENT_NAME="Mehul"                  # Student name
 SOFTWARE_CHOICE="Linux Kernel"         # Software being audited
 LICENSE="GNU General Public License v2 (GPL v2)"  # Kernel's license
 
