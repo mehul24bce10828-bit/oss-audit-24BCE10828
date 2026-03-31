@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Mangal | Course: Open Source Software
+# Author: Mehul | Course: Open Source Software
 # Description: Asks the user 3 interactive questions and generates
 #              a personalised open source philosophy statement,
 #              saved to a .txt file.
