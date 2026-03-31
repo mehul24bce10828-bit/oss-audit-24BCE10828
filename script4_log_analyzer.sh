@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Mangal | Course: Open Source Software
+# Author: Mehul | Course: Open Source Software
 # Description: Reads a log file, counts keyword occurrences,
 #              and prints matching lines. Accepts filename and keyword
 #              as command-line arguments.
