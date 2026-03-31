@@ -1,6 +1,6 @@
 # OSS Audit — Linux Kernel
-**Student Name:** Mangal Singh  
-**Registration Number:** 24BCE10599  
+**Student Name:** Mehul Banthia  
+**Registration Number:** 24BCE10828  
 **Course:** Open Source Software  
 **Chosen Software:** Linux Kernel  
 
@@ -109,25 +109,6 @@ Asks you 3 interactive questions and generates a personalised open source philos
 
 ---
 
-## Screenshots
-
-### Script 1 — System Identity Report
-![Script 1 Output](screenshots/script1_run.png)
-
-### Script 2 — FOSS Package Inspector
-![Script 2 Output](screenshots/script2_run.jpg)
-
-### Script 3 — Disk and Permission Auditor
-![Script 3 Output](screenshots/script3_run.png)
-
-### Script 4 — Log File Analyzer
-![Script 4 Output](screenshots/script4_run.png)
-
-### Script 5 — Open Source Manifesto Generator
-![Script 5 Output](screenshots/script5_run.png)
-
----
-
 ## License
 All shell scripts in this repository are written for educational purposes as part of the VITyarthi OSS course.  
 The Linux Kernel itself is licensed under **GPL v2** — see [kernel.org](https://www.kernel.org) for details.
@@ -135,6 +116,6 @@ The Linux Kernel itself is licensed under **GPL v2** — see [kernel.org](https:
 ---
 
 ## Author
-**Mangal Singh**  
-Registration Number: 24BCE10599  
+**Mehul Banthia**  
+Registration Number: 24BCE10828  
 GitHub: [@livingmangal](https://github.com/livingmangal)
