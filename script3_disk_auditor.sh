@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Mangal | Course: Open Source Software
+# Author: Mehul | Course: Open Source Software
 # Description: Loops through key Linux directories and reports
 #              permissions, owner, and size of each.
 
