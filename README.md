@@ -118,4 +118,4 @@ The Linux Kernel itself is licensed under **GPL v2** — see [kernel.org](https:
 ## Author
 **Mehul Banthia**  
 Registration Number: 24BCE10828  
-GitHub: [@livingmangal](https://github.com/oss-audit-24BCE10828)
+GitHub: [@mehulbanthia](https://github.com/oss-audit-24BCE10828)
