@@ -17,7 +17,7 @@ This repository contains five shell scripts written as part of the Open Source A
 |-------------|-------------|
 | `Scripts/` | Contains the 5 shell scripts and sample output |
 | `screenshots/` | Contains execution screenshots for each script |
-| `OSS_Report_MangalSingh_24BCE10599.pdf` | Detailed project report |
+| `OSS_Report_Mehulbanthia_24BCE10828.pdf` | Detailed project report |
 
 ### Scripts Details (Inside `Scripts/`)
 | Script | Description |
@@ -43,8 +43,8 @@ This repository contains five shell scripts written as part of the Open Source A
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/livingmangal/oss-audit-24BCE10599.git
-cd oss-audit-24BCE10599/Scripts
+git clone https://github.com/mehul24bce10828-bit/oss-audit-24BCE10828.git
+cd oss-audit-24BCE10828/Scripts
 ```
 
 ### Step 2 — Make scripts executable
